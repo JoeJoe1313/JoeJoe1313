@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on gaining the latest AI knowledge.
+- 💬 Ask me about Mathematics, Python, Data Science/Machine Learning/AI, Data Engineering.
 - ✨ Personal blog can be found [here](https://joejoe1313.github.io).
 - 📫 How to reach me:
     - [Linkedin](https://www.linkedin.com/in/joana-levtcheva-479844164/)
