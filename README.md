@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- ✨ Personal blog can be found [here](https://joejoe1313.github.io).
 - 📫 How to reach me:
     - [Linkedin](https://www.linkedin.com/in/joana-levtcheva-479844164/)
-    - Email
