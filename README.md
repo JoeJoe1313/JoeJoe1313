@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - ✨ Personal blog can be found [here](https://joejoe1313.github.io).
 - 📫 How to reach me:
     - [Linkedin](https://www.linkedin.com/in/joana-levtcheva-479844164/)
+ 
+## Some Stats
+
+[![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeJoe1313)](https://github.com/anuraghazra/github-readme-stats)
