@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on gaining the latest AI knowledge.
+- 🌱 I’m currently learning `mlx`, `mlx-lm`, `mlx-vlm`.
 - 💬 Ask me about Mathematics, Python, Data Science/Machine Learning/AI, Data Engineering.
 - ✨ Personal blog can be found [here](https://joejoe1313.github.io).
 - 📫 How to reach me:
