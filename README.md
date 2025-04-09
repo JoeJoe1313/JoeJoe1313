@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ✨ Personal blog can be found [here](https://joejoe1313.github.io).
 - 👩‍💻 You can also check my [Medium](https://medium.com/@levchevajoana) blog.
 - 📫 How to reach me:
+    - [X](https://x.com/13_jo_jo_13)
     - [Linkedin](https://www.linkedin.com/in/joana-levtcheva-479844164/)
-    - [Medium](https://medium.com/@levchevajoana)
  
 ## Some Stats
 
