@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 ## Some Stats
 
 [![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeJoe1313&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JoeJoe1313)
