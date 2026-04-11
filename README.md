@@ -26,4 +26,4 @@ Here are some ideas to get you started:
  
 ## Some Stats
 
-[![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeJoe1313&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Joana's GitHub stats](https://github-readme-stats-ecru-ten-38.vercel.app/api?username=JoeJoe1313&hide_rank=true)](https://github.com/JoeJoe1313/github-readme-stats)
