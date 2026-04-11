@@ -24,6 +24,10 @@ Here are some ideas to get you started:
     - [Linkedin](https://www.linkedin.com/in/joana-levtcheva-479844164/)
     - [X](https://x.com/13_jo_jo_13)
  
+## Contributions
+ 
+![My GitHub Game](game.gif)
+ 
 ## Some Stats
 
 [![Joana's GitHub stats](https://github-readme-stats-ecru-ten-38.vercel.app/api?username=JoeJoe1313&hide_rank=true)](https://github.com/JoeJoe1313/github-readme-stats)
